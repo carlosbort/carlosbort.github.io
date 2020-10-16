@@ -9,9 +9,24 @@ layout: default
     {{ content }}
   </div>
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
+<br>
+
+{% include mailchimp.html %}
+
+<br>
+
+<div class="date">
+    Written on {{ page.date | date: "%B %e, %Y" }} - {{ page.tags | join: ", "}} - {{ page.categories | join: ", "}}
   </div>
 
-  {% include disqus.html %}
+<br>
+
+  {% if page.categories contains 'Talk' %}
+  	Go back to: <a href="/talks/">🎤 Talks</a>
+  {% else %}
+  	Go back to: <a href="/blog/">📝 Blog</a>
+  {% endif %}
+
+
+
 </article>

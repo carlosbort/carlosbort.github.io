@@ -1,18 +1,40 @@
 ---
 layout: default
+title: Welcome
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+<section class='c-introduction'>
+    <h1>Welcome!</h1>
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+Hi there! My name is <b>Carlos Bort</b> and I like to do things. In this page I share my experience with <b>data</b>, <b>start-ups</b> and some <b>random thoughts</b>. 
+<br>
+There are two main sections:
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+<ul>
+  <li>
+    <a href="/blog/">📝 Blog</a>, articles and reflexions
+  </li>
+  <li>
+    <a href="/talks/">🎤 Talks</a>, speaking with others
+  </li>  
+</ul>
+    
+You can find more information about me in the <a href="/about/">👋 About</a> section.
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
+
+<hr style="height:1pt; visibility:hidden;" />
+<hr>
+
+<h2>Last 3 entries:</h2>
+
+<ul>
+  {% for post in site.posts limit:3 %}
+    
+    <li><a href="{{ post.url }}">{{ post.title }} </a> <br> {{ post.categories | join: ", "}} | {{ post.tags | join: ", "}} |  {{ post.date | date: "%-d %b %Y" }}</li> <hr style="height:1pt; visibility:hidden;" />
+    
   {% endfor %}
-</div>
+</ul>
+
+<h6>*Some contents are in English [ENG] few others in Spanish [ESP]</h6>
+
+
