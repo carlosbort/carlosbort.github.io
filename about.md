@@ -11,7 +11,7 @@ Hi there, my name is Carlos Bort and I like to do things. Some work, others don'
 
 Since I was a child, I loved maths. During university I found statistics the most interesting subject by far, and ended up specializing as an Actuary and Statistician, nowadays Data Scientist. 
 
-During the journey, I have found myself creating different companies [Sibilare](https://www.sibilare.com), [Xplore.ai](www.xplore.ai) & [Shalion](www.shalion.com) and data departments [Netquest](www.netquest.com). 
+During the journey, I have found myself creating different companies [Sibilare](https://www.sibilare.com), [Xplore.ai](www.xplore.ai) & [Shalion](www.shalion.com) and data departments at [Netquest](www.netquest.com) & currently at [Smart Protection](https://smartprotection.com/en/). 
 
 
 Things that I am proud of:
