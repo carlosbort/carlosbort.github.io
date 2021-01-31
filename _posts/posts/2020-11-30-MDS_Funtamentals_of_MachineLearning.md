@@ -6,9 +6,9 @@ date: 2020-11-30
 category: Post
 ---
 
-This year I debuted as a teacher in the [Data Science & Big Data Analytics - MDS+](https://thevalley.es/formacion/master-data-science-big-data-analytics) at [The Valley Business School](https://thevalley.es). A master's degree that aims to teach practical Data Capabilities and Strategy, for today's data practitioners. *Fundamentals of Machine Learning*
+This year I debuted as a teacher in the [Data Science & Big Data Analytics - MDS+](https://thevalley.es/formacion/master-data-science-big-data-analytics) at [The Valley Business School](https://thevalley.es). A master's degree that aims to teach practical Data Capabilities and Strategy, for today's data practitioners. 
 
-The objective of the session is for the students to understand how a Machine Learning algorithm works and how to approximate a real problem from their company. In addition, context will be given on the subject and the process that data modeling follows.If I have to summary the class in four things, they are:
+The objective of the session (*Fundamentals of Machine Learning*) is for the students to understand how a Machine Learning algorithm works and how to approximate a real problem from their company. In addition, context will be given on the subject and the process that data modeling follows.If I have to summary the class in four things, they are:
 
 <h3>1. Machine Learning definition and context </h3>
 
@@ -30,13 +30,13 @@ Source: Chapter 1: Introduction - Deep Learning Book
 During different moments of the late twentieth century, a lot was said about artificial intelligence and the different applications it would have. Why has the expansion been in the last 10 years?
 
 1. **Context**
-	- Data: digitization of the Company and lowering the price of disk storage
-	- Computation capabilities: computing capabilities have been doubling every 2 years, the well-known Moore's Law
-	- Algorithms: current algorithms are outperforming people in solving specific tasks and are developed in open source
+	- *Data:* digitization of the Company and lowering the price of disk storage
+	- *Computation capabilities:* computing capabilities have been doubling every 2 years, the well-known Moore's Law
+	- *Algorithms:* current algorithms are outperforming people in solving specific tasks and are developed in open source
 
 2. **Data**, it is the material on which we will build, there are two types:
-	- Structured, follows a table structure
-	- Unstructured, does not follow a table structure. Ex: text, image, audio
+	- *Structured*, follows a table structure
+	- *Unstructured*, does not follow a table structure. Ex: text, image, audio
 
 3. **Algorithm**, it is the mathematical function that links the input data and an action
 
