@@ -22,7 +22,7 @@ The main questions were:
 
 - The Spanish ecosystem, current state and future challenges 
 
-Take a look into the video 👇
+Take a look at the video 👇
 
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y9I78kM-0eQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

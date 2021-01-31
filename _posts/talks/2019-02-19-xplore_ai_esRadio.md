@@ -21,4 +21,4 @@ We talk about:
 <iframe src="https://www.youtube.com/embed/gLRlEcm-mo4" width="560" height="315" frameborder="0" align="center"></iframe>
 </p>
 
-Thanks for thinking of us [Mateo](https://www.linkedin.com/in/mateorouco/)!
+Thanks for thinking about us [Mateo](https://www.linkedin.com/in/mateorouco/)!

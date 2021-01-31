@@ -8,10 +8,10 @@ category: Talk
 [Millenium](https://www.rtve.es/television/millennium/programas/) is a historical and reputed program on Spanish TV. In this case I have had the opportunity to discuss how algorithms are shaping our day to day with a wonderful panel of experts:
 
 
-- [Pablo Rodríguez](https://www.linkedin.com/in/pablorr/), CEO of Telefonica Alpha
-- [José Luis Flórez](https://www.linkedin.com/in/joseluisflorez/), Chairman of Dive
+- [Pablo Rodríguez](https://www.linkedin.com/in/pablorr/), CEO at Telefonica Alpha
+- [José Luis Flórez](https://www.linkedin.com/in/joseluisflorez/), Chairman at Dive
 - [Ofelia Tejerina](https://www.linkedin.com/in/ofeliatejerina/), President Association of Internet Users
-- Myself
+- [Calos Bort](https://www.linkedin.com/in/carlosbort/), Co-Founder and Data Scientist at Xplore.ai
 
 The show is in Spanish:
 
