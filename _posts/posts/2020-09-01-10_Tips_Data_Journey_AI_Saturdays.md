@@ -2,7 +2,7 @@
 layout: post
 title: 10 tips I wish I had known before I started a data Journey [ENG]
 tags: [Data Strategy, AI Saturdays]
-category: [Talk,Post]
+category: [Post]
 ---
 
 [AI Saturdays](https://www.saturdays.ai/index.html) is an incredible project I am very proud to collaborate with. Our main goal is, *"empower diverse individuals to learn Artificial Intelligence in a collaborative and project-based way"*.
@@ -23,11 +23,6 @@ Here are the 10 tips:
 9. Be Humble
 10. Future: Causal Inference, ML Engineer & mix profiles
 
-Take a look at the video 👇
-
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Sv4iGmsjb9Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
 
 A summary blogpost + Slides
 
