@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Data Science Is Helping Us Fight COVID-19 [ENG]
+title: How Data Science Is Helping Us Fight COVID-19 - IE University [ENG]
 tags: [Covid-19, IE University]
 category: Talk
 ---

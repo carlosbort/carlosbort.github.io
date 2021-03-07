@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 10 tips for a Data Scientist - AI Saturdays Donosti [ESP]
+title: 10 tips for a Data Scientist [ESP]
 tags: [Data Strategy, AI Saturdays]
 category: Talk
 ---
